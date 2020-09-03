@@ -24,3 +24,6 @@
 * 2.在菜单搜索“cmd”找到命令行工具, cd 到解压文件的那个目录下
 * 3.执行命令webchirp.exe -install -chromeExtID=(将拷贝的插件id放在这里) 
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f5.gif)
+
+## 说明
+安装好以上程序，就可以打开chrome,点击插件小图标，注册即可实现科学上网。
