@@ -12,3 +12,5 @@
 * 5.找到第一步zip文件解压的位置，选择dist文件
 * 6.插件加载好了，保存复制插件的ID,后面需要用到
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f3.gif)
+
+## MAC安装本地应用
