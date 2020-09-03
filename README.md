@@ -6,7 +6,7 @@
   mac系统的插件[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-mac-1.0.zip)，windows系统的插件[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-windows-1.0.zip)。
 ## MAC/Windows安装插件演示
 * 1.解压.zip文件到任意位置
-* 2.打开chrome,点击右上角菜单，选择“更多工具”下的“扩展程序”。或者浏览器url输入chrome://extensions 也能打开扩展程序界面
+* 2.打开chrome,点击右上角菜单，选择“更多工具”下的“扩展程序”。或者浏览器地址栏输入chrome://extensions 也能打开扩展程序界面
 * 3.在扩展程序界面，右上角点击开发者模式。
 * 4.左上角点击“加载已经解压的扩展程序”
 * 5.找到第一步zip文件解压的位置，选择dist文件
