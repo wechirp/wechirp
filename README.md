@@ -26,4 +26,4 @@
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f5.gif)
 
 ## 说明
-安装好以上程序，就可以打开chrome,点击插件小图标，注册即可实现科学上网。
+安装好以上程序，就可以打开chrome,点击插件小图标，注册即可实现科学上网。注意以上安装只需要一次。后续只管使用就好了。
