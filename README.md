@@ -14,3 +14,7 @@
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f3.gif)
 
 ## MAC安装本地应用
+![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f4.gif)
+
+## Windows安装本地应用
+![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f5.gif)
