@@ -4,7 +4,7 @@
 ## 安装说明
   先下载Webchirp的chrome插件安装文件包，包含相应的系统应用，目前支持mac和windows系统。
   mac系统的插件[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-mac-1.0.zip)，windows系统的插件[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-windows-1.0.zip)。
-  如果以上地址下载不了，请使用云盘下载[下载地址](https://cowtransfer.com/s/9cfca4f4f73849) 提取码：cqghdw
+  如果以上地址下载不了，请使用云盘下载[下载地址](https://cowtransfer.com/s/b736927e52704b) 提取码：dcqpzy
 ## MAC/Windows安装插件演示
 * 1.解压.zip文件到任意位置
 * 2.打开chrome,点击右上角菜单，选择“更多工具”下的“扩展程序”。或者浏览器地址栏输入chrome://extensions 也能打开扩展程序界面
