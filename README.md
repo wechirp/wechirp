@@ -15,16 +15,16 @@
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f3.gif)
 
 ## MAC安装本地应用
-* 1.解压.zip文件里面有一个webchirp的应用程序，不要直接打开
+* 1.解压.zip文件里面有一个wechirp的应用程序，不要直接打开
 * 2.打开Mac终端命令行工具，cd 到解压文件的那个目录下
-* 3.安装应用执行命令：webchirp -install -chromeExtID=(将拷贝的插件id放在这里)                                 
+* 3.安装应用执行命令：wechirp -install -chromeExtID=(将拷贝的插件id放在这里)                                 
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f4.gif)
 * 4.卸载应用执行命令：wechirp -uninstall   
 
 ## Windows安装本地应用
 * 1.解压.zip文件里面有一个webchirp.exe的应用程序，不要直接打开
 * 2.在菜单搜索“cmd”找到命令行工具, cd 到解压文件的那个目录下
-* 3.安装应用执行命令：webchirp.exe -install -chromeExtID=(将拷贝的插件id放在这里)                                 
+* 3.安装应用执行命令：wechirp.exe -install -chromeExtID=(将拷贝的插件id放在这里)                                 
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/f5.gif)
 * 4.卸载应用执行命令：wechirp.exe -uninstall 
 
