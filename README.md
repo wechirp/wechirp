@@ -4,7 +4,7 @@
 
 ## 安装说明
   先下载WeChirp的安装文件包，目前支持MacOs系统。 windows系统还在开发中。
-  MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-mac-1.0.zip)
+  MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.1/WeChirps_v10.dmg)
   Windows系统的应用（开发中....）
   
 ## MACOS安装演示
