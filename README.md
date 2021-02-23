@@ -1,10 +1,10 @@
-# WeChirp - Chrome科学上网插件
+# WeChirp - 科学上网工具
 
-无需任何繁琐设置，只需安装好插件，即可畅游互联网。智能区分墙内墙外地址，对用户来说此操作是透明的，系统自动判断是否需要开启代理，真正实现按需科学上网。基于目前市面上的chrome科学上网插件有大量的安全问题，容易被GFW探测到。本插件使用了chrome的 Native Messaging APIs 相关技术，结合自研的本地加密应用的安装(只需首次安装即可)，可以将信息安全加密并且代理出去。从而实现科学上网。同时WeChirp还提供了网址收藏功能，将喜欢的页面保存在云上，此功能是免费开放的。首次注册免费体验一天。
+无需任何繁琐设置，只需安装好应用，即可畅游互联网。启动pac模式，可智能区分墙内墙外地址，首次注册免费体验一天，后续每天签到都会送时长，如果不是重度用户，可以一直免费使用。重度用户或视频用户，可以选择付费，会有高速的香港专线。
+
 ## 安装说明
-  先下载WeChirp的chrome插件安装文件包，包含相应的系统应用，目前支持mac和windows系统。
-  mac系统的插件[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-mac-1.0.zip)，windows系统的插件[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-windows-1.0.zip)。
-  如果以上地址下载不了，请使用云盘下载[下载地址](https://cowtransfer.com/s/2764d02cf4604f) 提取码：874523
+  先下载WeChirp的安装文件包，目前支持macos系统。 windows系统还在开发中。
+  mac系统的插件[下载地址](https://github.com/wechirp/wechirp/releases/download/1.0/wechirp-mac-1.0.zip)
 ## MAC/Windows安装插件演示
 * 1.解压.zip文件到任意位置
 * 2.打开chrome,点击右上角菜单，选择“更多工具”下的“扩展程序”。或者浏览器地址栏输入chrome://extensions 也能打开扩展程序界面
