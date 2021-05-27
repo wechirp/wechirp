@@ -4,8 +4,8 @@
 
 ## 安装说明
   先下载WeChirp的安装文件包，目前支持MacOs系统。 windows系统还在开发中。
-  MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirps_Mac_V12.dmg)
-  Windows系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirp_window_V12.zip)
+  MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirps_mac_v12.dmg)
+  Windows系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirp_windows_v12.zip)
   
 ## MACOS安装演示
 * 1.打开WeChirps_Mac_V12.dmg文件
