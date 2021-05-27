@@ -4,21 +4,30 @@
 
 ## 安装说明
   先下载WeChirp的安装文件包，目前支持MacOs系统。 windows系统还在开发中。
-  MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.1/WeChirps_v11.dmg)
-  Windows系统的应用（开发中....）
+  MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirps_Mac_V12.dmg)
+  Windows系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirp_window_V12.zip)
   
 ## MACOS安装演示
-* 1.打开WeChirps_v10.dmg文件
+* 1.打开WeChirps_Mac_V12.dmg文件
 * 2.运行WeChiprs.app应用
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/wc4.png)
 * 3.运行后会打开浏览器，这个时候会有一个登陆页面，注册登陆即可（如果不注册登陆，科学上网代理不会启动）
 
-## 配合PAC模式使用
+## Mac配合PAC模式使用
 * 1.应用自带了PAC模式，默认是关闭的。点击图标开启即可（Mac下会弹出授权，同意即可以科学上网，无需其他繁琐设置）
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/wc3.png)
 * 2.WeChiprs登陆后在主页有一个地址管理的页面，这里添加的地址（代表可科学上网的地址），会自动保存到PAC文件中。
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/wc2.png)
 * 3.当然您可以不用系统自带的PAC模式，用下面这个方法。
+
+## WINDOWS安装说明
+* 1.解压WeChirp_window_V12.zip文件到任意位置
+* 2.解压后点击Setup安装文件，开始安装，一路下一步即可。
+* 3.安装完后桌面上会有一个WebChirp图标，点击打开运行
+* 4.默认是没有开启Pac模式的，推荐配合SwitchyOmega插件使用，翻墙控制更自由。
+![image](https://raw.githubusercontent.com/wechirp/wechirp/master/wc6.png)
+* 5.点击右下角图标即可开启PAC模式，即可实现无依赖翻墙。如果使用SwitchyOmega，建议关闭pac模式，避免互相干扰。
+
 
 ## 配合SwitchyOmega插件使用
 * 1.如果经常使用Chrome的用户，或之前用过SwitchyOmega，可以选择配合SwitchyOmega插件使用。[SwitchyOmega插件地址](https://github.com/FelisCatus/SwitchyOmega)
