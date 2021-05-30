@@ -23,10 +23,11 @@
 ## WINDOWS安装说明
 * 1.解压WeChirp_window_V12.zip文件到任意位置
 * 2.解压后点击Setup安装文件，开始安装，一路下一步即可。
-* 3.安装完后桌面上会有一个WebChirp图标，点击打开运行
-* 4.默认是没有开启Pac模式的，推荐配合SwitchyOmega插件使用，翻墙控制更自由。
+* 3.安装完后桌面上会有一个WebChirp图标，点击打开运行,会自动弹出web界面，注册或登录即可使用。
+* 4.运行后会在右下角有一个应用图标，右键可操作。
+* 5.默认是没有开启Pac模式的，推荐配合SwitchyOmega插件使用，翻墙控制更自由。
 ![image](https://raw.githubusercontent.com/wechirp/wechirp/master/wc6.png)
-* 5.点击右下角图标即可开启PAC模式，即可实现无依赖翻墙。如果使用SwitchyOmega，建议关闭pac模式，避免互相干扰。
+* 6.点击右下角图标即可开启PAC模式，即可实现无依赖翻墙。如果使用SwitchyOmega，建议关闭pac模式，避免互相干扰。
 
 
 ## 配合SwitchyOmega插件使用
