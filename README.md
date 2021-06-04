@@ -3,7 +3,7 @@
 无需任何繁琐设置，只需安装好应用，即可畅游互联网。启动pac模式，可智能区分墙内墙外地址，首次注册免费体验一天，后续每天签到都会送时长。如果不是重度用户，可以一直免费使用。重度用户或视频用户，可以选择付费，会有高速的香港专线。
 
 ## 安装说明
-  先下载WeChirp的安装文件包，目前支持MacOs系统。 windows系统还在开发中。
+  先下载WeChirp的安装文件包，支持MacOs系统和Windows系统。
   MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirps_mac_v12.dmg)
   Windows系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirp_windows_v12.zip)
   云盘链接: [https://pan.baidu.com/s/1hcEjMQC9QThwIRNjrSs1Tw](https://pan.baidu.com/s/1hcEjMQC9QThwIRNjrSs1Tw) 提取码: 57zn 
