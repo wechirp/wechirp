@@ -6,7 +6,8 @@
   先下载WeChirp的安装文件包，目前支持MacOs系统。 windows系统还在开发中。
   MacOS系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirps_mac_v12.dmg)
   Windows系统的应用[下载地址](https://github.com/wechirp/wechirp/releases/download/1.2/WeChirp_windows_v12.zip)
-  
+  云盘链接: [https://pan.baidu.com/s/1hcEjMQC9QThwIRNjrSs1Tw](https://pan.baidu.com/s/1hcEjMQC9QThwIRNjrSs1Tw) 提取码: 57zn 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v2的分享
 ## MACOS安装演示
 * 1.打开WeChirps_Mac_V12.dmg文件
 * 2.运行WeChiprs.app应用
